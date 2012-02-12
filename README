@@ -1,1 +1,1 @@
-thermostat-client is designed to interact with Filtrete WiFi thermostats, specifically model CT50, also knowm as model 3M-50 as sold by Home Depot. To start, this project will read state data, but will eventually also send data to set temperatures and scheduling information.
+thermostat-client is designed to interact with Filtrete WiFi thermostats, specifically model CT50, also known as model 3M-50 as sold by Home Depot. To start, this project will read state data, but will eventually also send data to set temperatures and scheduling information.
